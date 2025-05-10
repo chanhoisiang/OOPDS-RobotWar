@@ -1,0 +1,8 @@
+M by N : 15 15
+steps: 300
+robots: 5
+Madbot Kidd 3 6
+RoboTank Jet 12 1
+Terminator Alpha 9 8
+BlueThunder Beta 9 7
+RoboCop Star random random
